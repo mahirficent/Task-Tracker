@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Doctors Appointment",
+      "day": "January 1st at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": "2",
+      "text": "Important University Appointment",
+      "day": "January 12th at 10:30am",
+      "reminder": true
+    },
+    {
+      "id": "3",
+      "text": "Work Appointment",
+      "day": "January 31st at 2:30pm",
+      "reminder": true
+    },
+    {
+      "text": "Pick Nani from Airport",
+      "day": "14th December",
+      "reminder": true,
+      "id": "5XSAGOI"
+    }
+  ]
+}
